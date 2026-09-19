@@ -10,22 +10,22 @@
     {
       "engine": "easyocr",
       "samples": 350,
-      "cer": 0.136,
-      "wer": 0.4913,
-      "cer_strict": 0.1755,
-      "exact": 0.0886,
-      "ms_per_line": 2040.7813,
-      "cer_micro": 0.1253
+      "cer": 0.1357,
+      "wer": 0.4896,
+      "cer_strict": 0.1752,
+      "exact": 0.0943,
+      "ms_per_line": 441.4684,
+      "cer_micro": 0.1257
     },
     {
       "engine": "tesseract",
       "samples": 350,
-      "cer": 0.4592,
-      "wer": 0.612,
-      "cer_strict": 0.4607,
-      "exact": 0.3029,
-      "ms_per_line": 187.1479,
-      "cer_micro": 0.4449
+      "cer": 0.3918,
+      "wer": 0.5721,
+      "cer_strict": 0.3931,
+      "exact": 0.3257,
+      "ms_per_line": 40.3639,
+      "cer_micro": 0.3685
     }
   ]
 }

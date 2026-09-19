@@ -28,12 +28,12 @@ documented scoring method, engines behind one interface, a weekly automated run,
 Latest run on the synthetic set (350 lines: 20 sentences x 5 fonts x 3 image-quality levels, plus 50 lines of numbers, dates and prices; lower is better). Auto-updated by the weekly workflow.
 
 <!-- LEADERBOARD:START -->
-**350 lines, dataset: synthetic**
+**350 lines, dataset: all**
 
 | Engine | Lines | CER | WER | Exact lines | Speed |
 |---|---|---|---|---|---|
-| easyocr | 350 | 13.6% | 49.0% | 9.4% | 807 ms |
-| tesseract | 350 | 39.2% | 57.2% | 32.6% | 85 ms |
+| easyocr | 350 | 13.6% | 49.0% | 9.4% | 441 ms |
+| tesseract | 350 | 39.2% | 57.2% | 32.6% | 40 ms |
 
 **CER by style**
 
