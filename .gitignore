@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+wandb/
+.DS_Store
+# local databases and trained weights (publish weights as a GitHub Release, not in git)
+results/*.db
+models/*.pt
+# private data
+data/benchmark/real/images/
+data/benchmark/real/labels.csv
+data/benchmark/real_manifest.csv
+data/corpus/extra/

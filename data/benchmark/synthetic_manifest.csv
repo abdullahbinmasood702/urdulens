@@ -1,0 +1,351 @@
+id,path,text,source,content_type,style,font,level,split
+syn0000,synthetic/syn0000.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0001,synthetic/syn0001.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0002,synthetic/syn0002.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0003,synthetic/syn0003.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0004,synthetic/syn0004.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0005,synthetic/syn0005.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0006,synthetic/syn0006.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0007,synthetic/syn0007.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0008,synthetic/syn0008.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0009,synthetic/syn0009.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0010,synthetic/syn0010.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0011,synthetic/syn0011.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0012,synthetic/syn0012.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0013,synthetic/syn0013.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0014,synthetic/syn0014.png,پانی زیادہ پینے کی عادت ڈالنی چاہیے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0015,synthetic/syn0015.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0016,synthetic/syn0016.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0017,synthetic/syn0017.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0018,synthetic/syn0018.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0019,synthetic/syn0019.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0020,synthetic/syn0020.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0021,synthetic/syn0021.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,lateef,clean,test
+syn0022,synthetic/syn0022.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,lateef,mild,test
+syn0023,synthetic/syn0023.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0024,synthetic/syn0024.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0025,synthetic/syn0025.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0026,synthetic/syn0026.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0027,synthetic/syn0027.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0028,synthetic/syn0028.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0029,synthetic/syn0029.png,میٹنگ کل صبح گیارہ بجے دفتر میں ہوگی۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0030,synthetic/syn0030.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0031,synthetic/syn0031.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0032,synthetic/syn0032.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0033,synthetic/syn0033.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0034,synthetic/syn0034.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0035,synthetic/syn0035.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0036,synthetic/syn0036.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,lateef,clean,test
+syn0037,synthetic/syn0037.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,lateef,mild,test
+syn0038,synthetic/syn0038.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0039,synthetic/syn0039.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0040,synthetic/syn0040.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0041,synthetic/syn0041.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0042,synthetic/syn0042.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0043,synthetic/syn0043.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0044,synthetic/syn0044.png,پانی کا کنکشن کل صبح تک بحال کر دیا جائے گا۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0045,synthetic/syn0045.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0046,synthetic/syn0046.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0047,synthetic/syn0047.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0048,synthetic/syn0048.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0049,synthetic/syn0049.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0050,synthetic/syn0050.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0051,synthetic/syn0051.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0052,synthetic/syn0052.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0053,synthetic/syn0053.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0054,synthetic/syn0054.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0055,synthetic/syn0055.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0056,synthetic/syn0056.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0057,synthetic/syn0057.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0058,synthetic/syn0058.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0059,synthetic/syn0059.png,ہمیں اپنے ماحول کو صاف رکھنا چاہیے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0060,synthetic/syn0060.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0061,synthetic/syn0061.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0062,synthetic/syn0062.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0063,synthetic/syn0063.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0064,synthetic/syn0064.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0065,synthetic/syn0065.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0066,synthetic/syn0066.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,lateef,clean,test
+syn0067,synthetic/syn0067.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,lateef,mild,test
+syn0068,synthetic/syn0068.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0069,synthetic/syn0069.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0070,synthetic/syn0070.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0071,synthetic/syn0071.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0072,synthetic/syn0072.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0073,synthetic/syn0073.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0074,synthetic/syn0074.png,ٹرین لاہور سے کراچی کے لیے رات دس بجے روانہ ہوگی۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0075,synthetic/syn0075.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0076,synthetic/syn0076.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0077,synthetic/syn0077.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0078,synthetic/syn0078.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0079,synthetic/syn0079.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0080,synthetic/syn0080.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0081,synthetic/syn0081.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,lateef,clean,test
+syn0082,synthetic/syn0082.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,lateef,mild,test
+syn0083,synthetic/syn0083.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0084,synthetic/syn0084.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0085,synthetic/syn0085.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0086,synthetic/syn0086.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0087,synthetic/syn0087.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0088,synthetic/syn0088.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0089,synthetic/syn0089.png,کل صبح ہم نے مل کر ناشتہ کیا۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0090,synthetic/syn0090.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0091,synthetic/syn0091.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0092,synthetic/syn0092.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0093,synthetic/syn0093.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0094,synthetic/syn0094.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0095,synthetic/syn0095.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0096,synthetic/syn0096.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,lateef,clean,test
+syn0097,synthetic/syn0097.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,lateef,mild,test
+syn0098,synthetic/syn0098.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0099,synthetic/syn0099.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0100,synthetic/syn0100.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0101,synthetic/syn0101.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0102,synthetic/syn0102.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0103,synthetic/syn0103.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0104,synthetic/syn0104.png,ہر طالب علم کو اپنا شناختی کارڈ ساتھ لانا ہوگا۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0105,synthetic/syn0105.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0106,synthetic/syn0106.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0107,synthetic/syn0107.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0108,synthetic/syn0108.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0109,synthetic/syn0109.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0110,synthetic/syn0110.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0111,synthetic/syn0111.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0112,synthetic/syn0112.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0113,synthetic/syn0113.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0114,synthetic/syn0114.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0115,synthetic/syn0115.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0116,synthetic/syn0116.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0117,synthetic/syn0117.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0118,synthetic/syn0118.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0119,synthetic/syn0119.png,بزرگوں کا احترام ہماری تہذیب کا حصہ ہے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0120,synthetic/syn0120.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0121,synthetic/syn0121.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0122,synthetic/syn0122.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0123,synthetic/syn0123.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0124,synthetic/syn0124.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0125,synthetic/syn0125.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0126,synthetic/syn0126.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,lateef,clean,test
+syn0127,synthetic/syn0127.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,lateef,mild,test
+syn0128,synthetic/syn0128.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0129,synthetic/syn0129.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0130,synthetic/syn0130.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0131,synthetic/syn0131.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0132,synthetic/syn0132.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0133,synthetic/syn0133.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0134,synthetic/syn0134.png,مینو میں چکن کڑاہی اور دال چاول شامل ہیں۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0135,synthetic/syn0135.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0136,synthetic/syn0136.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0137,synthetic/syn0137.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0138,synthetic/syn0138.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0139,synthetic/syn0139.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0140,synthetic/syn0140.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0141,synthetic/syn0141.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0142,synthetic/syn0142.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0143,synthetic/syn0143.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0144,synthetic/syn0144.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0145,synthetic/syn0145.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0146,synthetic/syn0146.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0147,synthetic/syn0147.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0148,synthetic/syn0148.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0149,synthetic/syn0149.png,کھیتوں میں گندم کی فصل تیار ہو رہی ہے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0150,synthetic/syn0150.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0151,synthetic/syn0151.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0152,synthetic/syn0152.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0153,synthetic/syn0153.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0154,synthetic/syn0154.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0155,synthetic/syn0155.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0156,synthetic/syn0156.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,lateef,clean,test
+syn0157,synthetic/syn0157.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,lateef,mild,test
+syn0158,synthetic/syn0158.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0159,synthetic/syn0159.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0160,synthetic/syn0160.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0161,synthetic/syn0161.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0162,synthetic/syn0162.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0163,synthetic/syn0163.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0164,synthetic/syn0164.png,محلے کی مسجد میں آج نماز کے بعد اجلاس ہوگا۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0165,synthetic/syn0165.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0166,synthetic/syn0166.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0167,synthetic/syn0167.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0168,synthetic/syn0168.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0169,synthetic/syn0169.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0170,synthetic/syn0170.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0171,synthetic/syn0171.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0172,synthetic/syn0172.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0173,synthetic/syn0173.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0174,synthetic/syn0174.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0175,synthetic/syn0175.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0176,synthetic/syn0176.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0177,synthetic/syn0177.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0178,synthetic/syn0178.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0179,synthetic/syn0179.png,محنت کا پھل میٹھا ہوتا ہے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0180,synthetic/syn0180.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0181,synthetic/syn0181.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0182,synthetic/syn0182.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0183,synthetic/syn0183.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0184,synthetic/syn0184.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0185,synthetic/syn0185.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0186,synthetic/syn0186.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0187,synthetic/syn0187.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0188,synthetic/syn0188.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0189,synthetic/syn0189.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0190,synthetic/syn0190.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0191,synthetic/syn0191.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0192,synthetic/syn0192.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0193,synthetic/syn0193.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0194,synthetic/syn0194.png,ہم نے چھٹیوں میں شمالی علاقوں کی سیر کا ارادہ کیا ہے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0195,synthetic/syn0195.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0196,synthetic/syn0196.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0197,synthetic/syn0197.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0198,synthetic/syn0198.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0199,synthetic/syn0199.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0200,synthetic/syn0200.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0201,synthetic/syn0201.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,lateef,clean,test
+syn0202,synthetic/syn0202.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,lateef,mild,test
+syn0203,synthetic/syn0203.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0204,synthetic/syn0204.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0205,synthetic/syn0205.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0206,synthetic/syn0206.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0207,synthetic/syn0207.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0208,synthetic/syn0208.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0209,synthetic/syn0209.png,براہ کرم اپنا پتہ اور فون نمبر واضح لکھیں۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0210,synthetic/syn0210.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0211,synthetic/syn0211.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0212,synthetic/syn0212.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0213,synthetic/syn0213.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0214,synthetic/syn0214.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0215,synthetic/syn0215.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0216,synthetic/syn0216.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,lateef,clean,test
+syn0217,synthetic/syn0217.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,lateef,mild,test
+syn0218,synthetic/syn0218.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0219,synthetic/syn0219.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0220,synthetic/syn0220.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0221,synthetic/syn0221.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0222,synthetic/syn0222.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0223,synthetic/syn0223.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0224,synthetic/syn0224.png,گلی میں صفائی کا کام کل صبح شروع ہوگا۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0225,synthetic/syn0225.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0226,synthetic/syn0226.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0227,synthetic/syn0227.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0228,synthetic/syn0228.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0229,synthetic/syn0229.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0230,synthetic/syn0230.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0231,synthetic/syn0231.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,lateef,clean,test
+syn0232,synthetic/syn0232.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,lateef,mild,test
+syn0233,synthetic/syn0233.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0234,synthetic/syn0234.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0235,synthetic/syn0235.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0236,synthetic/syn0236.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0237,synthetic/syn0237.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0238,synthetic/syn0238.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0239,synthetic/syn0239.png,کسان صبح سے شام تک کھیتوں میں محنت کرتا ہے۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0240,synthetic/syn0240.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0241,synthetic/syn0241.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0242,synthetic/syn0242.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0243,synthetic/syn0243.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0244,synthetic/syn0244.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0245,synthetic/syn0245.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0246,synthetic/syn0246.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,lateef,clean,test
+syn0247,synthetic/syn0247.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,lateef,mild,test
+syn0248,synthetic/syn0248.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0249,synthetic/syn0249.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0250,synthetic/syn0250.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0251,synthetic/syn0251.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0252,synthetic/syn0252.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0253,synthetic/syn0253.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0254,synthetic/syn0254.png,دادی جان رات کو ہمیں پرانے قصے سناتی تھیں۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0255,synthetic/syn0255.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0256,synthetic/syn0256.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0257,synthetic/syn0257.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0258,synthetic/syn0258.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0259,synthetic/syn0259.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0260,synthetic/syn0260.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0261,synthetic/syn0261.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,lateef,clean,test
+syn0262,synthetic/syn0262.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,lateef,mild,test
+syn0263,synthetic/syn0263.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0264,synthetic/syn0264.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0265,synthetic/syn0265.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0266,synthetic/syn0266.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0267,synthetic/syn0267.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0268,synthetic/syn0268.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0269,synthetic/syn0269.png,تمام ملازمین سے گزارش ہے کہ وقت کی پابندی کریں۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0270,synthetic/syn0270.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0271,synthetic/syn0271.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0272,synthetic/syn0272.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0273,synthetic/syn0273.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0274,synthetic/syn0274.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0275,synthetic/syn0275.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0276,synthetic/syn0276.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,lateef,clean,test
+syn0277,synthetic/syn0277.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,lateef,mild,test
+syn0278,synthetic/syn0278.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0279,synthetic/syn0279.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0280,synthetic/syn0280.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0281,synthetic/syn0281.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0282,synthetic/syn0282.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0283,synthetic/syn0283.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0284,synthetic/syn0284.png,براہ کرم جوتے باہر اتار کر اندر آئیں۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0285,synthetic/syn0285.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,nastaliq,noto-nastaliq,clean,test
+syn0286,synthetic/syn0286.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,nastaliq,noto-nastaliq,mild,test
+syn0287,synthetic/syn0287.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,nastaliq,noto-nastaliq,heavy,test
+syn0288,synthetic/syn0288.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,nastaliq,gulzar,clean,test
+syn0289,synthetic/syn0289.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,nastaliq,gulzar,mild,test
+syn0290,synthetic/syn0290.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,nastaliq,gulzar,heavy,test
+syn0291,synthetic/syn0291.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,lateef,clean,test
+syn0292,synthetic/syn0292.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,lateef,mild,test
+syn0293,synthetic/syn0293.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,lateef,heavy,test
+syn0294,synthetic/syn0294.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,noto-naskh,clean,test
+syn0295,synthetic/syn0295.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,noto-naskh,mild,test
+syn0296,synthetic/syn0296.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,noto-naskh,heavy,test
+syn0297,synthetic/syn0297.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,scheherazade,clean,test
+syn0298,synthetic/syn0298.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,scheherazade,mild,test
+syn0299,synthetic/syn0299.png,ہوٹل میں کمرہ پہلے سے محفوظ کرا لیں۔,synthetic,sentence,naskh,scheherazade,heavy,test
+syn0300,synthetic/syn0300.png,نمبر 514,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0301,synthetic/syn0301.png,نمبر 514,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0302,synthetic/syn0302.png,نمبر 514,synthetic,numeric,naskh,lateef,mild,test
+syn0303,synthetic/syn0303.png,نمبر 514,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0304,synthetic/syn0304.png,نمبر 514,synthetic,numeric,naskh,scheherazade,mild,test
+syn0305,synthetic/syn0305.png,۱۸۰۳۸ روپے,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0306,synthetic/syn0306.png,۱۸۰۳۸ روپے,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0307,synthetic/syn0307.png,۱۸۰۳۸ روپے,synthetic,numeric,naskh,lateef,mild,test
+syn0308,synthetic/syn0308.png,۱۸۰۳۸ روپے,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0309,synthetic/syn0309.png,۱۸۰۳۸ روپے,synthetic,numeric,naskh,scheherazade,mild,test
+syn0310,synthetic/syn0310.png,نمبر 9037114,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0311,synthetic/syn0311.png,نمبر 9037114,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0312,synthetic/syn0312.png,نمبر 9037114,synthetic,numeric,naskh,lateef,mild,test
+syn0313,synthetic/syn0313.png,نمبر 9037114,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0314,synthetic/syn0314.png,نمبر 9037114,synthetic,numeric,naskh,scheherazade,mild,test
+syn0315,synthetic/syn0315.png,2266 3674726,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0316,synthetic/syn0316.png,2266 3674726,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0317,synthetic/syn0317.png,2266 3674726,synthetic,numeric,naskh,lateef,mild,test
+syn0318,synthetic/syn0318.png,2266 3674726,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0319,synthetic/syn0319.png,2266 3674726,synthetic,numeric,naskh,scheherazade,mild,test
+syn0320,synthetic/syn0320.png,۳۶۱۱ روپے,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0321,synthetic/syn0321.png,۳۶۱۱ روپے,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0322,synthetic/syn0322.png,۳۶۱۱ روپے,synthetic,numeric,naskh,lateef,mild,test
+syn0323,synthetic/syn0323.png,۳۶۱۱ روپے,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0324,synthetic/syn0324.png,۳۶۱۱ روپے,synthetic,numeric,naskh,scheherazade,mild,test
+syn0325,synthetic/syn0325.png,نمبر ۰۱۸۰۹,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0326,synthetic/syn0326.png,نمبر ۰۱۸۰۹,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0327,synthetic/syn0327.png,نمبر ۰۱۸۰۹,synthetic,numeric,naskh,lateef,mild,test
+syn0328,synthetic/syn0328.png,نمبر ۰۱۸۰۹,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0329,synthetic/syn0329.png,نمبر ۰۱۸۰۹,synthetic,numeric,naskh,scheherazade,mild,test
+syn0330,synthetic/syn0330.png,نمبر 716,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0331,synthetic/syn0331.png,نمبر 716,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0332,synthetic/syn0332.png,نمبر 716,synthetic,numeric,naskh,lateef,mild,test
+syn0333,synthetic/syn0333.png,نمبر 716,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0334,synthetic/syn0334.png,نمبر 716,synthetic,numeric,naskh,scheherazade,mild,test
+syn0335,synthetic/syn0335.png,98 بجے سے 02 بجے تک,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0336,synthetic/syn0336.png,98 بجے سے 02 بجے تک,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0337,synthetic/syn0337.png,98 بجے سے 02 بجے تک,synthetic,numeric,naskh,lateef,mild,test
+syn0338,synthetic/syn0338.png,98 بجے سے 02 بجے تک,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0339,synthetic/syn0339.png,98 بجے سے 02 بجے تک,synthetic,numeric,naskh,scheherazade,mild,test
+syn0340,synthetic/syn0340.png,87/07/2038,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0341,synthetic/syn0341.png,87/07/2038,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0342,synthetic/syn0342.png,87/07/2038,synthetic,numeric,naskh,lateef,mild,test
+syn0343,synthetic/syn0343.png,87/07/2038,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0344,synthetic/syn0344.png,87/07/2038,synthetic,numeric,naskh,scheherazade,mild,test
+syn0345,synthetic/syn0345.png,۷۶ روپے,synthetic,numeric,nastaliq,noto-nastaliq,mild,test
+syn0346,synthetic/syn0346.png,۷۶ روپے,synthetic,numeric,nastaliq,gulzar,mild,test
+syn0347,synthetic/syn0347.png,۷۶ روپے,synthetic,numeric,naskh,lateef,mild,test
+syn0348,synthetic/syn0348.png,۷۶ روپے,synthetic,numeric,naskh,noto-naskh,mild,test
+syn0349,synthetic/syn0349.png,۷۶ روپے,synthetic,numeric,naskh,scheherazade,mild,test

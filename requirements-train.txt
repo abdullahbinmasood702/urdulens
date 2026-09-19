@@ -1,0 +1,2 @@
+# For training on Kaggle / Colab (a GPU runtime is preinstalled with torch).
+-e .[train,easyocr]

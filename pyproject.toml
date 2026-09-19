@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "urdulens"
+version = "0.1.0"
+description = "Open benchmark and toolkit for Urdu OCR: compare engines, train a model, read Urdu from photos."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Abdullah Bin Masood" }]
+dependencies = [
+    "pillow>=10.1",
+    "numpy>=1.26",
+    "pandas>=2.1",
+    "rapidfuzz>=3.5",
+    "python-bidi>=0.5",
+    "sqlalchemy>=2.0",
+    "pytesseract>=0.3.10",
+]
+
+[project.optional-dependencies]
+db = ["psycopg2-binary>=2.9"]
+app = ["streamlit>=1.35", "plotly>=5.20"]
+easyocr = ["easyocr>=1.7"]
+train = ["torch>=2.2", "torchvision>=0.17", "wandb>=0.16"]
+dev = ["pytest>=8", "ruff>=0.5"]
+
+[project.scripts]
+urdulens = "urdulens.cli:main"
+
+[tool.setuptools]
+packages = ["urdulens", "urdulens.engines"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+extend-exclude = ["*.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501", "RUF001", "B905"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: takes a while (skipped unless -m slow)"]
+addopts = "-m 'not slow'"

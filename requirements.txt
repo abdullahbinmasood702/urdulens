@@ -1,0 +1,3 @@
+# Everything needed to run the benchmark, the tests and the apps locally.
+# (Tesseract itself is a separate program - see docs/GUIDE.md.)
+-e .[db,app,dev]

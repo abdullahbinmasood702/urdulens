@@ -1,0 +1,31 @@
+{
+  "dataset": "all",
+  "lines": 350,
+  "engines": [
+    "easyocr",
+    "tesseract"
+  ],
+  "skipped": {},
+  "summary": [
+    {
+      "engine": "easyocr",
+      "samples": 350,
+      "cer": 0.136,
+      "wer": 0.4913,
+      "cer_strict": 0.1755,
+      "exact": 0.0886,
+      "ms_per_line": 2040.7813,
+      "cer_micro": 0.1253
+    },
+    {
+      "engine": "tesseract",
+      "samples": 350,
+      "cer": 0.4592,
+      "wer": 0.612,
+      "cer_strict": 0.4607,
+      "exact": 0.3029,
+      "ms_per_line": 187.1479,
+      "cer_micro": 0.4449
+    }
+  ]
+}

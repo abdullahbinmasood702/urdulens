@@ -1,0 +1,52 @@
+name: Weekly benchmark
+
+on:
+  schedule:
+    - cron: "0 4 * * 1" # Mondays 04:00 UTC
+  workflow_dispatch: # run it manually from the Actions tab
+
+permissions:
+  contents: write # lets the job commit the updated leaderboard
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install Tesseract with Urdu data
+        run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-urd
+
+      - name: Install CPU-only PyTorch (much smaller than the default wheel)
+        run: pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Install UrduLens with EasyOCR
+        run: pip install -e ".[db,easyocr]"
+
+      - name: Cache EasyOCR models
+        uses: actions/cache@v4
+        with:
+          path: ~/.EasyOCR
+          key: easyocr-models-v1
+
+      - name: Run benchmark (stores results in Neon when DATABASE_URL is set)
+        run: urdulens benchmark --engines tesseract,easyocr --dataset all --notes "weekly workflow"
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+
+      - name: Update README leaderboard
+        run: urdulens update-readme
+
+      - name: Commit results (this also keeps the repo active so scheduled runs do not pause)
+        run: |
+          git config user.name "urdulens-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add README.md results/leaderboard.md results/latest.json results/latest_scores.csv
+          git diff --staged --quiet || git commit -m "Update leaderboard [skip ci]"
+          git push
