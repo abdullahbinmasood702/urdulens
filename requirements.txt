@@ -1,3 +1,8 @@
-# Everything needed to run the benchmark, the tests and the apps locally.
-# (Tesseract itself is a separate program - see docs/GUIDE.md.)
--e .[db,app,dev]
+# Lightweight dependencies for the leaderboard dashboard on Render (no torch, no OCR engines).
+streamlit>=1.35
+plotly>=5.20
+pandas>=2.1
+numpy>=1.26
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+pillow>=10.1
