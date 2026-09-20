@@ -59,6 +59,11 @@ if results.empty:
     )
     st.stop()
 
+# The lines stored as "real" are currently 30 computer-rendered photo-style images,
+# not phone photos. Show them under an honest name. Remove this line once genuine
+# phone-photo lines are added.
+results["source"] = results["source"].replace({"real": "simulated-photo"})
+
 with st.sidebar:
     if st.button("Refresh data"):
         st.cache_data.clear()
@@ -79,10 +84,12 @@ if data.empty:
     st.warning("No lines match these filters.")
     st.stop()
 
-if "synthetic" in set(data["source"]) and "real" not in set(data["source"]):
+if set(data["source"]) & {"synthetic", "simulated-photo"}:
     st.warning(
-        "These results use **synthetic** images (rendered text with simulated blur/noise), "
-        "not real photographs. Treat them as a controlled comparison, not real-world accuracy."
+        "**synthetic** = rendered Urdu text with simulated blur and noise. "
+        "**simulated-photo** = 30 computer-rendered lines with photo-style blur, tilt and shadow. "
+        "Neither is a real phone photo, so treat these as a controlled engine comparison, "
+        "not real-world accuracy. Real phone-photo results are planned."
     )
 
 summary = report.summarize(data)
