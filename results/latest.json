@@ -14,7 +14,7 @@
       "wer": 0.4896,
       "cer_strict": 0.1752,
       "exact": 0.0943,
-      "ms_per_line": 441.4684,
+      "ms_per_line": 327.0994,
       "cer_micro": 0.1257
     },
     {
@@ -24,7 +24,7 @@
       "wer": 0.5721,
       "cer_strict": 0.3931,
       "exact": 0.3257,
-      "ms_per_line": 40.3639,
+      "ms_per_line": 45.5552,
       "cer_micro": 0.3685
     }
   ]
