@@ -2,8 +2,8 @@
 
 | Engine | Lines | CER | WER | Exact lines | Speed |
 |---|---|---|---|---|---|
-| easyocr | 350 | 13.6% | 49.0% | 9.4% | 327 ms |
-| tesseract | 350 | 39.2% | 57.2% | 32.6% | 46 ms |
+| easyocr | 350 | 13.6% | 49.0% | 9.4% | 440 ms |
+| tesseract | 350 | 39.2% | 57.2% | 32.6% | 42 ms |
 
 **CER by style**
 
