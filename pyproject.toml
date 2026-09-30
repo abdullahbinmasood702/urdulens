@@ -21,7 +21,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-db = ["psycopg2-binary>=2.9"]
+db = ["psycopg[binary]>=3.2"]
 app = ["streamlit>=1.35", "plotly>=5.20"]
 easyocr = ["easyocr>=1.7"]
 train = ["torch>=2.2", "torchvision>=0.17", "wandb>=0.16"]
